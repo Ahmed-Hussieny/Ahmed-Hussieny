@@ -1,19 +1,14 @@
+# Hi, I'm Ahmed Hussieny! 👋
 
 
-<!---
-Ahmed-Hussieny/Ahmed-Hussieny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.🔭🌱💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-    📫  How to reach me: @Ahmed0Hussieny or fosstodon.org/@gkr
-    👨‍💻  Read more about my projects at gautamkrishnar.com
-    ⚡  Fun fact: I ❤️ 🐶s and Xbox Gaming (GamerTag: GKRXtreme)
---->
-Hi there
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hussieny-9941a2245)
+[![codeforces](https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=34)](https://codeforces.com/profile/0.8)
 
-This is the place where I opensource stuff and break things 🤣
+## 🛠 Skills
+Javascript, HTML, CSS , Java , Flutter , C++ , React Redux , ReactJs , NextJs , Bootstrap
 
-    👋 I’m @Ahmed-Hussieny 😉
-    👀 I’m interested in CSS 
-    🌱 I’m currently learning JavaScribt , React.js , graphics , Database
-    💞️ I’m looking to collaborate on ...
-    👨‍📫 How to reach me : @Ahmed0Hussieny
-    
+
+## 🚀 About Me
+I'm a Software engineer ....
