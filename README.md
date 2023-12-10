@@ -7,8 +7,7 @@
 [![codeforces](https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=34)](https://codeforces.com/profile/0.8)
 
 ## 🛠 Skills
-Javascript, HTML, CSS , Java , Flutter , C++ , React Redux , ReactJs , NextJs , Bootstrap
-
+C, C++.Java, Javascript, ReactJs, ReactNative, NextJs, Nodejs, SQL, PL/SQL, React Redux, HTML, CSS, JQuery, 
 
 ## 🚀 About Me
 I'm a Software engineer ....
